@@ -46,7 +46,8 @@ div.page{
 }
 
 div.page div.header:hover{
-	color:blue;
+
+	color:reDD
 	cursor:pointer;
 }
 
